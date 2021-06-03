@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of the poore distressed prisoners in the hole of the poultry compter being about threescore and ten persons in number : against this time of the birth of our saviour Iesus Christ.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70296</idno><idno type="EEBO-CITATION">11956040</idno>
+  <idno type="VID">51511</idno>
+  <idno type="EEBO-PROQUEST">2240907101</idno>
+  
+            <idno type="STC">Wing H3572</idno>
+            <idno type="STC">ESTC R4100</idno>
+            <idno type="OCLC">11956040</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 232:E21, no 32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of the poore distressed prisoners in the hole of the poultry compter being about threescore and ten persons in number : against this time of the birth of our saviour Iesus Christ.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. F.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Thomason Collection.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisoners --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51511:1"/>
+            <pb facs="tcp:51511:1"/>
+            <p>The humble Petition of the poore distressed Prisoners in the hole of the <hi>Poultry Compter.</hi>
+            </p>
+            <p>Being about threescore and ten persons in number.</p>
+            <p>Against this time of the birth of our Saviour <hi>Iesus Christ.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon of the Freemen of London</figDesc>
+            </figure>
+            <q>
+               <p>Bessed is he that considereth the poor and needy the Lord shall deliver him in the need<g ref="char:EOLhyphen"/>full time of trouble, and his seed shall be blessed upon earth.</p>
+               <bibl>Psal. 41.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:51511:2"/>
+            <p>
+               <seg rend="decorInit">M</seg>OST humbly sheweth to your Christian Charity, the lamentable estate of the poore prisoners in the hole of the <hi>Poultry Compter,</hi> being about three<g ref="char:EOLhyphen"/>score &amp; ten persons in number, &amp; the most part of us Freemen of this Honourable City greatly afflicted with many miseries, as hunger, cold, na<g ref="char:EOLhyphen"/>kednes, noisomesmels, with many other calamities that dwell with vs in this our loathsome Dungeon. Neuerthelesse knowing, like so many good <hi>Samaritans,</hi> you neede no instigation to poure the oyle of Charity into the deepe wounds of our afflictions, we are emboldned to present this our humble Petition, only to pray and beseech your fauourable remembrance of vs in your godly and charitable beneuolence extended towards our reliefes and comfort, against this time of the birth of our Lord &amp; Sauiour Jesus Christ, who once was a prisoner himselfe for vs all. Your reward shall be, for giuing vs bread to feed our bodies, the food of Angells to re<g ref="char:EOLhyphen"/>fresh your soules, for giuing vs water to quench our thirst, you shall tast of the Well of Life: and for being good to vs Prisoners, you shal be made free Denizons of that old and glorious City <hi>Ierusalem.</hi> Therefore doe as God shall moue your hearts; and so blessed be his name for all our good Benefactors.</p>
+            <p>We most humbly pray and beseech, that your Charity may be put into this bearers box, sealed with the houses Seale, as it is figured vp<g ref="char:EOLhyphen"/>on this Petition.</p>
+            <closer>God preserue and keep the Kings most Excellent Maiesty and his great Councell of Parliament.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>M.F.</hi> One thousand sixe hundred forty and foure, <add>Decemb: 20<seg rend="sup">th</seg> 1644</add>
+            </p>
+            <pb facs="tcp:51511:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
